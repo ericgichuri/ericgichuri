@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ericgichuri
 - 👀 I’m interested in ...web development and software development
-- 🌱 I’m currently learning ...python and java
+- 👨‍💻 php,js/jquery, python, css,c++,vb.
+- 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...python and android app development
 - 📫 How to reach me ...+254707273244 on whatsapp and fb:eric software solutions
 
