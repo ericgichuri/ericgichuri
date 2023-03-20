@@ -1,16 +1,18 @@
 # My Bio
 - 👋 Hi, I’m @ericgichuri
+- 👨‍💻 I'm a web developer and softwares developer.
 - 👀 I’m interested in ...web development and software development
 # Languages or Technologies
-- 👨‍💻 php,js/jquery, python,Flask, css/bootstrap,c++/c,vb.net
+- 👨‍💻 python,Flask,js/jquery,css/bootstrap,php,c++/c,vb.net
 # What currently learning
 - 🌱 I’m currently learning machine learning
 # What collaboration i would like
-- 💞️ I’m looking to collaborate on ...python and android app development
+- 💞️ I’m looking to collaborate on ...python, machine learning and android app development
 # Contacts
 - 📫 How to reach me ...+254707273244 or +254759091813 calls and whatsapp 
 -   FaceBook https://fb.me/ericsoftwaresolutions
 -   Twitter https://twitter.com/Egichuri
+-   LinkedIn https://www.linkedin.com/in/eric-gichuri/
 
 
 <!---
