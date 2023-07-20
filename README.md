@@ -1,6 +1,6 @@
 # My Bio
 - 👋 Hi, I’m @ericgichuri
-- 👨‍💻 I'm a web developer and software developer.
+- 👨‍💻 I'm a Python Engineer, web developer and software developer.
 - 👀 I’m interested in ...web development and software development
 # Languages or Technologies
 - 👨‍💻 python,Flask,js/jquery,css/bootstrap,php,c++/c,vb.net
