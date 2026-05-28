@@ -1,5 +1,5 @@
-# 🚀 Eric Gichuri | ESS DEVSOFT
-**Full Stack Developer • Software Engineer • ML Enthusiast**
+# Eric Gichuri | ESS DEVSOFT
+**Full Stack Developer • Software Engineer • Building Real-World Solutions**
 
 <p align="left">
   <a href="https://linkedin.com/in/eric-gichuri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -10,12 +10,31 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **Computer Science Graduate** and the lead developer at **ESS DEVSOFT**. I specialize in building high-performance web applications and robust enterprise desktop software. My focus is on bridging the gap between complex backend logic and intuitive UI/UX design.
+I am a **Computer Science** Graduate and the lead developer at **ESS DEVSOFT**. I focus on building practical systems, APIs, and business solutions using modern web technologies.
 
 - 🎓 **Education:** B.Sc. in Computer Science
-- 🔭 **Current Focus:** Scaling **ESS EDUSYSTEM** and **MRentKenya**
-- 🧠 **AI/ML:** Implementing Computer Vision (OpenCV) for automated attendance systems
-- 🤝 **Collaboration:** Open to projects involving Python, Flask, and full-stack web architecture
+- 💻 **Main Stack:** Python, Flask, PHP, JavaScript, MySQL, Tailwind CSS
+- 🚀 **Currently Building:** **BomaConnect** – a modern rental and property management platform
+- 🧠 **Learning & Innovation:** Exploring AI, automation, and computer vision solutions
+- 🤝 **Open To:** Full-stack development projects, APIs, and business systems
+
+--- 
+
+## ✅ Completed Projects 
+
+### 🏠 MRentKenya 
+Rental and property listing platform designed for landlords, agents, and tenants. 
+### 🌍 Kenya Geo API 
+Backend API providing structured Kenya counties, constituencies, and wards data for web and mobile apps. 
+### 🏫 ESS EDUSYSTEM 
+School management system focused on administration, student management, and academic operations.
+
+---
+
+## 🔨 Current Project 
+
+### 🏘️ BomaConnect 
+A smart platform focused on property rentals, listings, and digital real estate solutions.
 
 ---
 
@@ -31,10 +50,7 @@ I am a **Computer Science Graduate** and the lead developer at **ESS DEVSOFT**. 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ericgichuri&show_icons=true&theme=tokyonight" alt="Eric's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericgichuri&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
+<p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ericgichuri&show_icons=true&theme=tokyonight" height="150" /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ericgichuri&layout=compact&theme=tokyonight" height="150" /> </p>
 
 ---
 
@@ -45,6 +61,12 @@ I am a **Computer Science Graduate** and the lead developer at **ESS DEVSOFT**. 
 
 ---
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+<p align="center"> 
+  <i>"Building solutions that solve real problems."</i> 
+</p>
+
+---
+
+<p align="center"> 
+  <i>"Smart Technologies, Smart Services"</i> 
 </p>
